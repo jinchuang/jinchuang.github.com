@@ -1,0 +1,52 @@
+# Basic
+title: The Warrior King 
+subtitle: 懦夫屡败，勇者无敌
+welcome_message: <a href="http://jinchuang.me" target="_blank">个人域名：jinchuang.me</a>
+description: 你好，我是金闯，一名Android / iOS 开发者。目前在炼狱模式下打怪升级，点满全栈技能点数后，就去挑战架构大魔王！
+creator: <a href="http://jinchuang.me">WarriorKing</a>
+
+url: "http://jinchuang.me"
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: rouge
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", tables]
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: red
+
+# The blog button should not be removed.
+blog_button:
+    title: 博客
+    description: 访问博客
+
+# Navigation buttons in the front page.
+nav:
+    - {title: 项目, description: 我的项目, url: 'http://jinchuang.me/project'}
+    - {title: 关于, description: 了解更多关于我, url: 'http://jinchuang.me/about'}
+    - {title: 订阅, description: 邮件订阅本站, url: 'api.jinchuang.me/subscribe'}
+
+# Pagination
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
+
+# Comment
+comment:
+    #disqus: WarriorKing
+    duoshuo: warriorking
+    
+# Social
+social:
+    weibo: 大猩猩在思考
+    github: jinchuang
+    twitter: jinchuang 
+    mail: 45545338@qq.com
+
+# Google Analytics
+ga:
+    # id: your_ga_id
+    # host: your_host
