@@ -1,7 +1,7 @@
 <!-- 2016-03-04-complete-about-page.md -->
 ---
 layout: post
-title: 更换博客系统
+title: 关于页面替换完成
 date: 2016-3-02
 ---
 
