@@ -1,4 +1,3 @@
-<!-- 2016-03-04-complete-about-page.md -->
 ---
 layout: post
 title: 关于页面替换完成
