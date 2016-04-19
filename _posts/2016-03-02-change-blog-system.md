@@ -1,6 +1,6 @@
 ---
 layout: post
-title: （✅）更换博客系统
+title: 更换博客系统
 date: 2016-3-02
 ---
 

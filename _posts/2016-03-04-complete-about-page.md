@@ -1,6 +1,6 @@
 ---
 layout: post
-title: （✅）关于页面替换完成
+title: 关于页面替换完成
 date: 2016-03-04
 ---
 
