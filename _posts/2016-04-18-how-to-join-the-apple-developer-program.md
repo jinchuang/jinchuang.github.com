@@ -3,6 +3,7 @@ layout: post
 title: 开通<公司版>苹果开发者账号－全记录
 date: 2016-4-18
 tags: iOS
+category: iOS
 ---
 
 第一步：注册一个AppleID
