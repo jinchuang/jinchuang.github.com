@@ -6,6 +6,8 @@ tags: iOS
 category: iOS
 ---
 
+***
+
 第一步：注册一个AppleID
 
 第二步：绑定一个信用卡
