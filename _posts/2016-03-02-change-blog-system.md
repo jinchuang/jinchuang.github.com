@@ -2,6 +2,8 @@
 layout: post
 title: 更换博客系统
 date: 2016-3-02
+tags: other
+category: other
 ---
 
 #### 终于换了
