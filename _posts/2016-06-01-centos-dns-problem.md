@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ……低能记录……VMware CentOS 6.6 桥接网络配置无法解析域名的终极解决办法
+title: ^低能记录^ VMware CentOS 6.6 桥接网络配置无法解析域名的终极解决办法
 date: 2016-06-01
 tags: Linux
 category: Linux
