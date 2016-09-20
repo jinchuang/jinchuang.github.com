@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Android内部培训]000-序章
+title: Android内部培训-000-序章
 date: 2016-09-20
 tags: Android
 category: Android
