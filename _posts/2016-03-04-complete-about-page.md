@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ……博客……关于页面替换完成
+title: ^博客^ | 关于页面替换完成
 date: 2016-03-04
 tags: blog
 category: blog
