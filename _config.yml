@@ -1,8 +1,8 @@
 # Basic
-title: The Warrior King 
+title: The Warrior King
 subtitle: 懦夫屡败，勇者无敌
 welcome_message: <a href="http://jinchuang.me" target="_blank">个人域名：jinchuang.me</a>
-description: 你好，我是金闯，一名移动端开发者。目前在炼狱模式下打怪升级，点满全栈技能点数后，就去挑战架构大魔王！
+description: 你好，我是金闯，一个和编程打交道的手艺人。
 creator: <a href="http://jinchuang.me">WarriorKing</a>
 
 url: "http://jinchuang.me"
@@ -38,7 +38,7 @@ paginate_path: "page/:num/"
 comment:
     #disqus: WarriorKing
     duoshuo: warriorking
-    
+
 # Social
 social:
     weibo: 大猩猩在思考
