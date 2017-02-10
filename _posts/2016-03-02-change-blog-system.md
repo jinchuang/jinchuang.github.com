@@ -1,6 +1,6 @@
 ---
 layout: post
-title: *博客* | 更换博客系统
+title: 博客  |  更换博客系统
 date: 2016-3-02
 tags: blog
 category: blog
