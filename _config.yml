@@ -26,7 +26,7 @@ blog_button:
 # Navigation buttons in the front page.
 nav:
     - {title: 项目, description: 我的项目, url: 'http://jinchuang.me/project'}
-    - {title: 关于, description: 了解更多关于我, url: 'http://jinchuang.me/about'}
+    - {title: 资源收集, description: 资源收集, url: 'http://jinchuang.me/resources'}
     - {title: 订阅, description: 邮件订阅本站, url: 'http://jinchuang.me/feed.xml'}
 
 # Pagination
